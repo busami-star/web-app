@@ -1,7 +1,7 @@
 import React from 'react';
-import Index from './Index.jsx'
-import Footer from './Footer'
-import Header from './Header'
+import Index from './components/Index.jsx'
+import Footer from './components/Footer.jsx'
+import Header from './components/Header.jsx'
 
 
 function App() {
